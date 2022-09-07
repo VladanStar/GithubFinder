@@ -14,6 +14,7 @@ function Home() {
   <div className='search-results'>
     <div className='user'>
       <div className='image'>
+        <img  src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqZSEyJpE_EGC4XRRgLwnTs5XOUC_ZUelnxeQQL-YR92_1d8W0GEIBleZ62vr4cymSZ0Q&usqp=CAU'></img>
 
       </div>
       <div className='user=info'>
