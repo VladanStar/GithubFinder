@@ -34,5 +34,8 @@
 .user-image {
    width: 20%;
    border-radius: 10%; 
-
+}
+.user .image img {
+    width: 100%;
+    border-radius: 10%;
 }
