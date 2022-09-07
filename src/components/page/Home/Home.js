@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import "./Home.css";
-import axios from "../../../axios";
+import axios from "../../../axios"
 import User from "../../ui/User";
 const Home = () => {
   const [query, setQuery] = useState("");
